@@ -3,7 +3,9 @@
   I'm a Full Stack Devoloper and a Junior Blockchain Devoloper.
  - 👍 React Developer.
  - 👍 .NET Developer.
- - 🌱 I'm currently studying MIS at Anadolu University and i am constantly learning about new technologies such as ML, Blockchain and Unreal Engine 5 at my free times.
+ - 🎮 Learning Unreal Engine 5 and MetaHuman. 
+ - 🤖 Curious about ML and AI technologies.
+ - 🌱 I'm currently studying MIS at Anadolu University.
  - 📫 You can reach me from: https://www.linkedin.com/in/ismailsemihsenturk/.
 
 <!---
