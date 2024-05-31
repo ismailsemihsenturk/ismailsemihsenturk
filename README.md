@@ -1,11 +1,11 @@
   <h2> <b>👋 Hi there</b> </h2> 
 
   I'm a Full Stack Devoloper and a Junior Machine Learning (ML) Engineer
- - 👍 React Developer
- - 👍 .NET Developer
- - 👍 Junior Machine Learning (ML) Engineer
- - 📝 Experienced with Blockchains and Smart Contract Development
- - 🎮 Familiar with Unreal Engine 5 
+ - 👍 React Developer.
+ - 👍 .NET Developer.
+ - 👍 Junior Machine Learning (ML) Engineer.
+ - 📝 Experienced with Blockchains and Smart Contract Development.
+ - 🎮 Familiar with Unreal Engine 5.
  - 📫 You can reach me from: https://www.linkedin.com/in/ismailsemihsenturk/
 
 <!---
