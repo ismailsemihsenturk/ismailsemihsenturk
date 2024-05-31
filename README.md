@@ -6,7 +6,6 @@
  - 👍 Junior Machine Learning (ML) Engineer
  - 📝 Experienced with Blockchains and Smart Contract Development.
  - 🎮 Experienced with Unreal Engine 5 and Game Development. 
- - 🤖 Curious about ML and AI technologies.
  - 📫 You can reach me from: https://www.linkedin.com/in/ismailsemihsenturk/.
 
 <!---
