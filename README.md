@@ -19,6 +19,7 @@ I'm a Full Stack Developer and Machine Learning (ML) Engineer passionate about c
 - Testing: Jest, React Testing Library
 
 ### 🌟 Recent Projects:
+- PaliGemma VLM: Implemented PaliGemma VLM architecture for visual encoding and text prompting.
 - EcoTrack: React Native Eco FootPrint calculation app.
 - Implemented ChatGPT-2 level language models for advanced NLP tasks
 
