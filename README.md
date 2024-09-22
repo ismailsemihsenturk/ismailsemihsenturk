@@ -19,9 +19,10 @@ I'm a Full Stack Developer and Machine Learning (ML) Engineer passionate about c
 - Testing: Jest, React Testing Library
 
 ### 🌟 Recent Projects:
+- Stable Diffusion: Implemented Stable Diffusion architecture for text-to-image and image-to-image generations.
 - PaliGemma VLM: Implemented PaliGemma VLM architecture for visual encoding and text prompting.
 - EcoTrack: React Native Eco FootPrint calculation app.
-- Implemented ChatGPT-2 level language models for advanced NLP tasks
+- ChatGPT-2: Implemented ChatGPT-2 architecture for advanced NLP tasks.
 
 ### 📫 Let's Connect:
 - LinkedIn: [ismailsemihsenturk](https://www.linkedin.com/in/ismailsemihsenturk/)
