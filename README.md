@@ -6,7 +6,7 @@ Backend Developer & AI Engineer focused on building robust systems and implement
 
 *   **🤖 AI Engineering:**
     *   Deep Learning model implementation (Specializing in Large Language Models and Vision Models).
-    *   Proficient in implementing core components like tokenizers (BPE), attention mechanisms, RoPE, KV Caching from scratch.
+    *   Experienced in implementing core components like tokenizers (BPE), Encoders, Attention mechanisms, RoPE, KV Caching from scratch.
     *   Experienced in building LLM-powered applications using frameworks like LangChain.
     *   Familiar with vector databases (e.g., Faiss) for Retrieval-Augmented Generation (RAG) and semantic search.
     *   Skilled in optimizing LLM fine-tuning (e.g., using libraries like Unsloth).
