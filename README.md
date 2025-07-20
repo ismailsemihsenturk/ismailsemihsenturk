@@ -39,4 +39,3 @@ Backend Developer & AI Engineer focused on building robust systems and implement
 
 ### 📫 Connect with Me:
 *   **LinkedIn:** [ismailsemihsenturk](https://www.linkedin.com/in/ismailsemihsenturk/)
-*   **GitHub:** You're already here!
