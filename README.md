@@ -30,6 +30,7 @@ Backend Developer & AI Engineer focused on building robust systems and implement
 
 ### Key Projects:
 
+*   **Lastik** This project tackles one of the most famous problems in theoretical computer science—the optimization of matrix multiplication—with a completely new and intuitive approach. Building upon Strassen's revolutionary 1969 algorithm, which first broke the O(n³) complexity barrier, this project aims to translate its algebraic steps into a visual and geometric                 language. At the heart of this endeavor is a unique visual notation I call "Lastik" (Turkish for "elastic" or "rubber band"), designed to represent matrices and their operations. This notation is mathematically rooted in the rich and elegant geometry of Lissajous curves.
 *   **LLAMA 3 Implementation** Built a functional LLAMA 3 model implementation, including BPE tokenizer, RoPE, KV Caching, Grouped Query Attention, and feedforward layers.
 *   **Stable Diffusion Implementation:** Implemented Stable Diffusion architecture for text-to-image and image-to-image generation.
 *   **PaliGemma VLM Implementation:** Implemented PaliGemma VLM architecture, handling visual encoding and text prompting integration.
